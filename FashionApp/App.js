@@ -9,7 +9,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage'
 
 import HomeScreen from './HomeScreen'
 import CartScreen from './CartScreen'
-import ProductDetail from './ProductDetailsScreen'
+import ProductDetail from './ProductDetailScreen'
 const Tab = createBottomTabNavigator()
 const Drawer = createDrawerNavigator()
 
